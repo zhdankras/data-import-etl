@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.30
+google-api-python-client==2.51.0
+google-auth-oauthlib==0.5.2
+slack_sdk==3.8.0
